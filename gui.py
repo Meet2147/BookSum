@@ -1,7 +1,6 @@
 from tkinter import *
 from tkinter import filedialog
 import pdfplumber
-import json
 
 def summarize_pdf(file_path):
     # Open the PDF file
